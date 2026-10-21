@@ -7,7 +7,7 @@ TakeIt's published legal documents.
 | Privacy policy (`index.html`) | <https://takeitbiz.github.io/> |
 
 Questions about privacy, or a request to see, correct or delete your data:
-**takeitbiz@gmail.com**
+**takeitbiz1@gmail.com**
 
 ---
 
