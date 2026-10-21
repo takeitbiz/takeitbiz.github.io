@@ -4,7 +4,7 @@ TakeIt's published legal documents.
 
 | Document | Published at |
 |---|---|
-| Privacy policy (`index.html`) | <https://shaharma2001-wq.github.io/takeit-legal/> |
+| Privacy policy (`index.html`) | <https://takeitbiz.github.io/> |
 
 Questions about privacy, or a request to see, correct or delete your data:
 **takeitbiz@gmail.com**
